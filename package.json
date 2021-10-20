@@ -73,6 +73,7 @@
     "@aws-cdk/aws-iam": "1.125.0",
     "@aws-cdk/aws-lambda": "1.125.0",
     "@aws-cdk/core": "1.125.0",
+    "constructs": "~3.3.131",
     "got": "^11.8.2"
   },
   "bundledDependencies": [
