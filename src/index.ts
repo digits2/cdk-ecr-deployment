@@ -1,7 +1,6 @@
 // Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
 // SPDX-License-Identifier: Apache-2.0
 
-
 import * as child_process from 'child_process';
 import * as path from 'path';
 import * as ec2 from '@aws-cdk/aws-ec2';
